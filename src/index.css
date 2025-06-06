@@ -1,0 +1,12 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: sans-serif;
+    background-color: #EEE;
+}
+.card1{
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    background-color: #fff;
+    margin-top: 25px;
+    border-radius: 5px;
+}
